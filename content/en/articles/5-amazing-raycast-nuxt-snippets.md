@@ -15,23 +15,21 @@ image: https://canvas.hrcd.fr/articles/5-raycast-snippets.jpg
 readingTime: "10"
 ---
 
+## What Are Raycast Snippets?
+
 ![preview](/articles/5-raycast-snippets.jpg)
 
 In the realm of web development, where efficiency is as valuable as expertise, tools that streamline and simplify our workflow are indispensable. Among these, Raycast snippets emerge as a powerful ally, especially for those working with Nuxt and Vue frameworks. But what exactly are these snippets, and how can they transform your development experience?
 
-## What Are Raycast Snippets?
-
-Raycast snippets are small, reusable pieces of text or code that can be quickly inserted into your work. Think of them as shortcuts for frequently used content - whether it's code, canned email responses, or even emojis. They are designed to save time and reduce repetitive typing, allowing developers and writers to work more efficiently.
-
-## How to Use Raycast Snippets
+Raycast snippets are small, reusable pieces of text or code that can be quickly inserted into your work. Think of them as dsfgfdsdgfhgfdsasfdgdfdasfdgfdsfdgfdasfgfdfdsfgshortcuts for frequently used content - whether it's code, canned email responses, or even emojis. They are designed to save time and reduce repetitive typing, allowing developers and writers to work more efficiently.
 
 Using Raycast snippets is straightforward. Once you've created or imported a snippet within the Raycast app, you can assign a specific keyword to it. This keyword acts as a trigger - whenever you type it in any application, the snippet will automatically expand in place, replacing the keyword with the full text or code of the snippet.
 
 For instance, if you have a snippet for a standard email sign-off, you can assign a keyword like `sig1`. Typing `sig1` in an email will then automatically expand to the full signature text. This feature is especially useful in coding, where you can have snippets for common code patterns or configurations.
 
-![snippets-exemple](/articles/snippets-exemple.gif)
-
 ### Component Template: `!comp`
+
+![snippets-exemple](/articles/snippets-exemple.gif)
 
 The `!comp` snippet is a basic yet powerful template for creating new Vue components. It includes a script setup with TypeScript support, a template section, and scoped styling. This snippet is ideal for rapidly scaffolding new components in your project.
 

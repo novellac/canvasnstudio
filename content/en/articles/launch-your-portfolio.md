@@ -17,9 +17,7 @@ readingTime: "5"
 
 Creating a portfolio as a development, design or tech professional is a journey punctuated by complex choices. One of the most prevalent of these dilemmas lies in the delicate balance between striving for perfection and the need to launch quickly. Explore with me the nuances of these contradictory perspectives.
 
-![preview](/articles/launch-your-porfolio.jpg)
-
-### The aspiration to perfection: an unattainable ideal?
+[The aspiration to perfection: an unattainable ideal?]{.text-6xl style="border: 3px solid limegreen;"}
 
 The traditional vision of artistic creation encourages us to pursue perfection from the outset. Every line of code, every element of design should converge towards absolute excellence. However, this dream of perfection can sometimes become a burden, a brake on progress. The relentless quest for perfection can paralyze the creative process, turning creation into an endless pursuit.
 
